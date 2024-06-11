@@ -18,7 +18,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
 
-<!-- TESTE PRÁTICO PROGRAMAÇÃO.
+TESTE PRÁTICO PROGRAMAÇÃO.
 
 Considerando que uma indústria possui as pessoas/funcionários abaixo:
 
@@ -52,5 +52,3 @@ Basta Colar o link ainda aqui nessa etapa.
 Esperamos que você use todo seu conhecimento e criatividade nesse teste.
 
 Caso você não souber resolver determinado requisito comente no código que aquele item você não sabe como desenvolver, e vá para o próximo. Avaliaremos o que você conseguiu desenvolver e como foi desenvolvido.
-
-Boa sorte! -->
